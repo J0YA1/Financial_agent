@@ -41,7 +41,7 @@ Finance_Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Finance_Agent.git
+git clone https://github.com/J0YA1/Finance_Agent.git
 cd Finance_Agent
 ```
 
